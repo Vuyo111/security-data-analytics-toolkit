@@ -1,26 +1,20 @@
 # 🔐 Security Data Analytics Toolkit
 
-This is a portfolio project that showcases my ability to combine **cybersecurity** and **data analytics** skills. It simulates how an entry-level analyst might investigate suspicious login activity using tools like Python, Jupyter Notebook, and data visualization.
+This project analyzes login log data to identify failed login attempts, flag suspicious users or IPs, and visualize login activity using Python and Pandas.
 
----
+## ✅ Features
+- Filters and inspects failed login events
+- Detects users/IPs with high failure counts
+- Visualizes login trends over time
+- Generates success vs. failure login breakdown
+- Summarizes key login metrics
+- Exports filtered and summary data to CSV
 
-## 📌 Project Objectives
-
-- Analyze system login data
-- Detect failed logins and potential unauthorized access
-- Visualize suspicious behavior using Python
-- Generate a simple security report based on findings
-
----
-
-## 🧰 Tools Used
-
+## 📊 Technologies Used
 - Python (Pandas, Matplotlib)
-- Jupyter Notebook
-- GitHub
-- CSV log data
+- Jupyter Notebook / VS Code
+- CSV log files
 
----
+## 🗂️ Folder Structure
 
-## 📂 Folder Structure
 

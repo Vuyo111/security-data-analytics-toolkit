@@ -1,0 +1,8 @@
+timestamp,username,ip_address,device_id,status
+2025-06-20 08:25:10,jdoe,192.168.1.2,DEV-001,failed
+2025-06-20 08:27:35,alice,10.0.0.5,DEV-002,failed
+2025-06-20 08:30:12,alice,10.0.0.5,DEV-002,failed
+2025-06-20 08:35:00,bob,172.16.0.3,DEV-003,failed
+2025-06-20 08:36:59,jdoe,192.168.1.2,DEV-001,failed
+2025-06-20 08:42:18,eve,203.0.113.10,DEV-004,failed
+2025-06-20 08:44:51,eve,203.0.113.10,DEV-004,failed
